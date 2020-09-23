@@ -1,2 +1,2 @@
 # Capstone_project
-This projectaims to use istorical data and build optimum modelfor prediction purpose
+This project aims to use historical data and build optimum model for prediction purpose
